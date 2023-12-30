@@ -1,4 +1,5 @@
 # django-todo
+Todoアプリ
 
 ```
 % python3 -V
